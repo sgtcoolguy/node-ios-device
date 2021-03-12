@@ -13,3 +13,5 @@ env.properties
 /Jenkinsfile
 yarn.lock
 /bin/publish.js
+.github/
+test/
